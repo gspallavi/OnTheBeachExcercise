@@ -1,0 +1,13 @@
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\Employee.mdf
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\Employee_log.ldf
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\DataLayer.dll
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\DomainClasses.dll
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\DataLayer.pdb
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\DomainClasses.pdb
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Naveen\Documents\Visual Studio 2013\Projects\OnTheBeach\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
